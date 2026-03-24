@@ -46,9 +46,9 @@ To write a Java program that prints a left-aligned right-angled triangle pattern
 ## PROGRAM:
  ```
 /*
-Program to implement a Looping Statement using Java
-Developed by: VELAN D
-RegisterNumber: 212222040176 
+Program to implement variables and Operators using Java
+Developed by: KAVIYARASU K
+RegisterNumber: 212222040075
 */
 ```
 
