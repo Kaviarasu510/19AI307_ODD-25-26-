@@ -40,8 +40,8 @@ To write a Java program that demonstrates the DAO (Data Access Object) pattern b
  ```
 /*
 Program to implement a Behaviour Pattern using Java
-Developed by: VELAN D
-RegisterNumber: 212222040176
+Developed by: KAVIYARASU K
+RegisterNumber: 212222040075
 */
 ```
 
