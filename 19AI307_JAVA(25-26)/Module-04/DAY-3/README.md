@@ -36,8 +36,8 @@ To write a Java program that demonstrates Object-Oriented Programming (OOP) conc
  ```
 /*
 Program to implement a Composition Concepts in Java
-Developed by: VELAN D
-RegisterNumber: 212222040176
+Developed by: KAVIYARASU K
+RegisterNumber: 212222040075
 */
 ```
 
