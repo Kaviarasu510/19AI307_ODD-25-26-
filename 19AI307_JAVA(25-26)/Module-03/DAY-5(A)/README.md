@@ -35,8 +35,8 @@ To write a Java program that demonstrates the use of inner classes by creating a
  ```
 /*
 Program to implement a InnerClass using Java
-Developed by: VELAN D
-RegisterNumber: 212222040176 
+Developed by: KAVIYARASU K
+RegisterNumber: 212222040075 
 */
 ```
 
