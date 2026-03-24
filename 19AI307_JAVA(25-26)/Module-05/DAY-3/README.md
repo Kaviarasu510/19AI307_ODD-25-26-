@@ -36,8 +36,8 @@ To write a Java program that reads multiple lines from the user and writes them 
  ```
 /*
 Program to implement a File Handling using Java
-Developed by: VELAN D
-RegisterNumber: 212222040176 
+Developed by: KAVIYARASU K
+RegisterNumber: 212222040075
 */
 ```
 
