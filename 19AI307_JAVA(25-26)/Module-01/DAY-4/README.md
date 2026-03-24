@@ -49,9 +49,9 @@ To write a Java program that reads an array of integers and finds the largest od
 ## PROGRAM:
  ```
 /*
-Program to implement a Array concept using Java
-Developed by: VELAN D
-RegisterNumber: 212222040176
+Program to implement variables and Operators using Java
+Developed by: KAVIYARASU K
+RegisterNumber: 212222040075
 */
 ```
 
