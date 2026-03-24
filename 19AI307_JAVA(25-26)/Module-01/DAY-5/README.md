@@ -32,9 +32,9 @@ To write a Java program that reads a string and a character from the user and ca
 ## PROGRAM:
  ```
 /*
-Program to implement a Strings and Math Function using Java
-Developed by: VELAN D
-RegisterNumber: 212222040176
+Program to implement variables and Operators using Java
+Developed by: KAVIYARASU K
+RegisterNumber: 212222040075
 */
 ```
 
