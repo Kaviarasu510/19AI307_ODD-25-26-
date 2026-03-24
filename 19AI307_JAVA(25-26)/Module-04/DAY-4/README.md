@@ -38,8 +38,8 @@ To write a Java program that demonstrates object cloning by creating a Document 
  ```
 /*
 Program to implement a Abstract Factory Pattern using Java
-Developed by: VELAN D
-RegisterNumber: 212222040176
+Developed by: KAVIYARASU K
+RegisterNumber: 212222040075
 */
 ```
 
