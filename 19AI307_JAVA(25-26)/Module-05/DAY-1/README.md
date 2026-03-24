@@ -27,8 +27,8 @@ To write a Java program that reads a line of text, splits it into words, and wri
  ```
 /*
 Program to implement a InputStreamReader using Java
-Developed by: VELAN D
-RegisterNumber:  212222040176
+Developed by: KAVIYARASU K
+RegisterNumber: 212222040075
 */
 ```
 
