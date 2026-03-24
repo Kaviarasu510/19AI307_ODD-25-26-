@@ -63,8 +63,8 @@ To write a Java program that demonstrates the Singleton design pattern by ensuri
  ```
 /*
 Program to implement a SOLID Principles in Java Program
-Developed by: VELAN D
-RegisterNumber: 212222040176
+Developed by: KAVIYARASU K
+RegisterNumber: 212222040075
 */
 ```
 
