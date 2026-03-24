@@ -42,8 +42,8 @@ To write a Java program that demonstrates the concept of classes and methods by 
  ```
 /*
 Program to implement a Class and Objects using Java
-Developed by: VELAN D
-RegisterNumber: 212222040176 
+Developed by: KAVIYARASU K
+RegisterNumber: 212222040075
 */
 ```
 
