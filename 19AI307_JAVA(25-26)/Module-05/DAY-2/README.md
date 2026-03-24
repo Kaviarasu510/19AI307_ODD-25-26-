@@ -27,8 +27,8 @@ To write a Java program that demonstrates inter-thread communication using Piped
  ```
 /*
 Program to implement a Serialization and Deserialization using Java
-Developed by: VELAN D
-RegisterNumber: 212222040176
+Developed by: KAVIYARASU K
+RegisterNumber: 212222040075
 */
 ```
 
