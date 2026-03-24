@@ -80,11 +80,11 @@ To write a Java program that demonstrates type conversion between different prim
 
 
 ## PROGRAM:
- ```
+```
 /*
 Program to implement variables and Operators using Java
-Developed by: VELAN D
-RegisterNumber: 212222040176 
+Developed by: KAVIYARASU K
+RegisterNumber: 212222040075
 */
 ```
 
